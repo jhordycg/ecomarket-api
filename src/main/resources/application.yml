@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    rest:
+      base-path: api
+    mongodb:
+      uri: mongodb+srv://testing:dsufXeE2l9ej9CG3@ecomarket-0.fsgvo.mongodb.net/ecomarket-db?retryWrites=true&w=majority
